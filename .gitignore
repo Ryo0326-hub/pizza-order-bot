@@ -1,0 +1,16 @@
+# Ignore virtual environments
+venv/
+venv39/
+__pycache__
+.env
+
+# Ignore OS junk
+.DS_Store
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore logs and temp files
+*.log
+*.tmp
